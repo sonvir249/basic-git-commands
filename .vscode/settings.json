@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "editorStickyScroll.background": "#3f3f3f",
+    "editorStickyScrollHover.background": "#565454",
+    "scrollbar.shadow": "#8f8a8a00",
+    "widget.shadow": "#ffffff00",
+    "tree.indentGuidesStroke": "#00fb64",
+    "activityBar.background": "#2F2F1B",
+    "titleBar.activeBackground": "#424126",
+    "titleBar.activeForeground": "#FBFBF9"
+  }
+}
